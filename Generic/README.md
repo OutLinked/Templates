@@ -29,7 +29,7 @@
 
   ↕  Insert a vertical space between each item.
 
-  🎨  Format the items as **Bullet-Points**.
+  🎨  Format the items as  <kbd>  Bullet Points  </kbd>
 
 ```txt
 Be familiar with the listed technologies / services / tools.
@@ -56,7 +56,7 @@ Be familiar with the listed technologies / services / tools.
 
   📝  List the languages, libraries, frameworks, .. that are used in the product.
 
-  🎨  Format the items as **BOLD** **Bullet-Points**.
+  🎨  Format the items as  <kbd>  Bold  </kbd>  <kbd>  Bullet Points  </kbd>
 
 ```txt
 Elasticsearch
@@ -84,7 +84,7 @@ MySQL
 
   📝  List the services the team is using to develop the product.
 
-  🎨  Format the items as **BOLD** **Bullet-Points**.
+  🎨  Format the items as  <kbd>  Bold  </kbd>  <kbd>  Bullet Points  </kbd>
 
 ```txt
 Confluence
@@ -135,7 +135,7 @@ Currently we have 8 pages in production you will be responsible for.
 
   ↕  Insert a vertical space between each item.
 
-  🎨  Format the items as **Bullet-Points**.
+  🎨  Format the items as  <kbd>  Bullet Points  </kbd>
 
 ```txt
 
@@ -162,7 +162,7 @@ Currently we have 8 pages in production you will be responsible for.
 
   ↕  Insert a vertical space between each item.
 
-  🎨  Format the items as **Bullet-Points**.
+  🎨  Format the items as  <kbd>  Bullet Points  </kbd>
 
 ```txt
 
