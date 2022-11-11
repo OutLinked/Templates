@@ -1,12 +1,19 @@
 
+<br>
+
+<div align = center>
+
 # Template - Generic
 
 *General purpose **LinkedIn** template for developer jobs.*
 
 <br>
 
-> **NOTE** Pick & choose the points that you need.
+> **Note** Pick & choose the points that you need.
 
+</div>
+
+<br>
 <br>
 
 ## Requirements
@@ -16,13 +23,13 @@
 𝘺𝘰𝘶 𝘴𝘩𝘰𝘶𝘭𝘥 𝘧𝘶𝘭𝘧𝘪𝘭𝘭.
 ```
 
-📝 List the qualities that you expect your candidate to have.
+  📝  List the qualities that you expect your candidate to have.
 
-🖊 Keep each item short while retaining it's information.
+  🖊  Keep each item short while retaining it's information.
 
-↕ Insert a vertical space between each item.
+  ↕  Insert a vertical space between each item.
 
-🎨 Format the items as **Bullet-Points**.
+  🎨  Format the items as **Bullet-Points**.
 
 ```txt
 Be familiar with the listed technologies / services / tools.
@@ -32,7 +39,10 @@ Be familiar with the listed technologies / services / tools.
 2+ years of related development experience.
 ```
 
-↕ Insert vertical 2 Spaces
+<br>
+<br>
+
+  ↕  Insert vertical 2 Spaces
 
 <br>
 <br>
@@ -44,9 +54,9 @@ Be familiar with the listed technologies / services / tools.
 𝘰𝘶𝘳 𝘱𝘳𝘰𝘥𝘶𝘤𝘵 𝘶𝘵𝘪𝘭𝘪𝘻𝘦𝘴.
 ```
 
-📝 List the languages, libraries, frameworks, .. that are used in the product.
+  📝  List the languages, libraries, frameworks, .. that are used in the product.
 
-🎨 Format the items as **BOLD** **Bullet-Points**.
+  🎨  Format the items as **BOLD** **Bullet-Points**.
 
 ```txt
 Elasticsearch
@@ -55,7 +65,10 @@ Docker
 MySQL
 ```
 
-↕ Insert vertical 2 Spaces
+<br>
+<br>
+
+  ↕  Insert vertical 2 Spaces
 
 <br>
 <br>
@@ -69,9 +82,9 @@ MySQL
 
 <br>
 
-📝 List the services the team is using to develop the product.
+  📝  List the services the team is using to develop the product.
 
-🎨 Format the items as **BOLD** **Bullet-Points**.
+  🎨  Format the items as **BOLD** **Bullet-Points**.
 
 ```txt
 Confluence
@@ -80,7 +93,10 @@ Slack
 Jira
 ```
 
-↕ Insert vertical 2 Spaces
+<br>
+<br>
+
+  ↕  Insert vertical 2 Spaces
 
 <br>
 <br>
@@ -92,13 +108,16 @@ Jira
 𝘰𝘧 𝘵𝘩𝘦 𝘰𝘱𝘦𝘳𝘢𝘵𝘪𝘰𝘯.
 ```
 
-📝 Describe the range of responsibilities.
+  📝  Describe the range of responsibilities.
 
 ```txt
 Currently we have 8 pages in production you will be responsible for.
 ```
 
-↕ Insert vertical 2 Spaces
+<br>
+<br>
+
+  ↕  Insert vertical 2 Spaces
 
 <br>
 <br>
@@ -110,17 +129,22 @@ Currently we have 8 pages in production you will be responsible for.
 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘳𝘦𝘤𝘦𝘪𝘷𝘦.
 ```
 
-📝 List the things this job offer provides that aren't a given.
+  📝  List the things this job offer provides that aren't a given.
 
-🖊 Keep each item short while retaining it's information.
+  🖊  Keep each item short while retaining it's information.
 
-↕ Insert a vertical space between each item.
+  ↕  Insert a vertical space between each item.
 
-🎨 Format the items as **Bullet-Points**.
+  🎨  Format the items as **Bullet-Points**.
 
 ```txt
 
 ```
+
+<br>
+<br>
+
+  ↕  Insert vertical 2 Spaces
 
 <br>
 <br>
@@ -132,13 +156,13 @@ Currently we have 8 pages in production you will be responsible for.
 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘣𝘦 𝘤𝘢𝘳𝘳𝘺𝘪𝘯𝘨 𝘰𝘶𝘵.
 ```
 
-📝 List the activities the candidate will do on a daily basis.
+  📝  List the activities the candidate will do on a daily basis.
 
-🖊 Keep each item short while retaining it's information.
+  🖊  Keep each item short while retaining it's information.
 
-↕ Insert a vertical space between each item.
+  ↕  Insert a vertical space between each item.
 
-🎨 Format the items as **Bullet-Points**.
+  🎨  Format the items as **Bullet-Points**.
 
 ```txt
 
