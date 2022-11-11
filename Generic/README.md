@@ -11,8 +11,18 @@
 
 > **Note** Pick & choose the points that you need.
 
-</div>
 
+<br>
+<br>
+
+<img
+    src = '../Assets/Template%20Generic.png'
+    alt = 'Preview of the formatted template'
+    title = 'Preview of how the template looks when formatted.'
+/>
+
+</div>
+    
 <br>
 <br>
 
