@@ -15,11 +15,13 @@
 <br>
 <br>
 
-<img
+[<kbd>  <br>  <img
     src = '../Assets/Template%20Generic.png'
     alt = 'Preview of the formatted template'
     title = 'Preview of how the template looks when formatted.'
-/>
+/>  <br>  </kbd>][#]
+
+
 
 </div>
     
@@ -182,3 +184,5 @@ Currently we have 8 pages in production you will be responsible for.
 
 
 <!----------------------------------------------------------------------------->
+
+[#]: #
